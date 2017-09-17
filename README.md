@@ -3,8 +3,6 @@ This is a small script to fetch the IDs of all artists you are following on [Pix
 
 It uses [PixivPy](https://github.com/upbit/pixivpy) to communicate with [Pixiv](https://www.pixiv.net) and fetches JSON responses.
 
----
-
 ## USAGE
 
 1. Run `pip install pixivpy --upgrade` to install [PixivPy](https://github.com/upbit/pixivpy).
